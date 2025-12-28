@@ -1,0 +1,5 @@
+faiss-cpu
+datasets
+sentence-transformers
+google-genai
+nltk
