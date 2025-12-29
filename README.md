@@ -45,7 +45,4 @@ This project implements a full RAG pipeline where the system retrieves relevant 
 ✔️ Dataset engineering  
 ✔️ Collaboration & debugging skills
 
----
 
-## ▶️ Running the Project
-Install requirements:
